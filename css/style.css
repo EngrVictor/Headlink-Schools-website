@@ -502,3 +502,8 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
+.last {
+    height: 220px !important;
+    width: 220px !important;
+}
